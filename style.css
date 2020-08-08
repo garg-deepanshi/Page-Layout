@@ -27,7 +27,7 @@
 .circle{
     height: 273px;
   width: 273px;
-  background-color: orange;
+  background-color: rgba(248, 163, 6, 0.795);
   border-radius: 50%;
   display: inline-block;
   margin:40px;
@@ -51,7 +51,7 @@
 }
 
 .box2{
-    background-color: darkred;
+    background-color: rgb(190, 11, 11);
     margin:8px 8px 8px 8px;
     height:161px;
     margin-left:10px;
@@ -74,7 +74,7 @@
 }
 .rect2{
       flex:50%;
-       background-color: red;
+       background-color: rgba(255, 0, 0, 0.685);
     margin:80px 80px 80px 80px;
     height:280px;
     width:50px;
@@ -95,7 +95,7 @@
     vertical-align: middle;
     line-height: 90px; 
     text-align:center;
-    background-color:blue;
+    background-color:rgb(255, 0, 179);
     height:90px;
     width:100%;
     margin:8px 8px 8px 8px;
