@@ -1,0 +1,103 @@
+#header{
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 90px; 
+    text-align:center;
+    background-color:gray;
+    height:90px;
+    width:100%;
+    margin:8px 8px 8px 8px;
+     color:white;
+    
+}
+#banner{
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 500px; 
+    text-align:center;
+    background-color:lightblue;
+    height:500px;
+    width:100%;
+    margin:8px 8px 8px 8px;
+    color:white;
+}
+.dots{
+    display:inline;
+}
+.circle{
+    height: 273px;
+  width: 273px;
+  background-color: orange;
+  border-radius: 50%;
+  display: inline-block;
+  margin:40px;
+  
+}
+.square{
+    display:inline;
+     margin:8px 8px 8px 8px;
+}
+.box{
+    float:left;
+    height: 500px;
+  width: 50%;
+  background-color: gray;
+ margin-left:8px;
+
+ line-height: 500px; 
+    text-align:center;
+     color:white;
+  
+}
+
+.box2{
+    background-color: darkred;
+    margin:8px 8px 8px 8px;
+    height:161px;
+    margin-left:10px;
+    line-height: 140px; 
+    text-align:center;
+    color:white;
+   
+}
+.box3{
+     float:left;
+    height: 500px;
+  width: 20px;
+  background-color: white;
+ 
+
+ 
+}
+.rect{
+    display:flex;
+}
+.rect2{
+      flex:50%;
+       background-color: red;
+    margin:80px 80px 80px 80px;
+    height:280px;
+    width:50px;
+    margin-left:10px;
+    line-height: 40px; 
+    text-align:center;
+     color:white;
+      margin:15px 15px 15px 15px;
+    
+}
+.articals{
+     margin:4px 4px 4px 4px;
+    padding:10px 10px 10px 10px;
+    color:white;
+}
+#footer{
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 90px; 
+    text-align:center;
+    background-color:blue;
+    height:90px;
+    width:100%;
+    margin:8px 8px 8px 8px;
+    color:white;
+}
